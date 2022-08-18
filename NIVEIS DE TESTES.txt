@@ -1,4 +1,4 @@
-   Existem 4 tipos de niveis de testes,dentre eles podemoscitar :
+   Existem 4 tipos de niveis de testes,dentre eles podemos citar :
 
 Testes Unitários/de Componente
 
