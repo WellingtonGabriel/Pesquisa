@@ -8,7 +8,7 @@ A partir disso, ele é comumente realizado utilizando-se o código-fonte. Portan
 
    caixa preta
 
-iferente do teste de caixa branca, ele possui esse nome porque o código-fonte é ignorado no teste. Assim, ao se utilizar dessa técnica, o tester não está preocupado com os elementos constitutivos do software, mas em como ele funciona.
+Diferente do teste de caixa branca, ele possui esse nome porque o código-fonte é ignorado no teste. Assim, ao se utilizar dessa técnica, o tester não está preocupado com os elementos constitutivos do software, mas em como ele funciona.
 
 Nesse sentido, esse tipo de teste também é conhecido como teste funcional, já que busca garantir que os requisitos funcionais do produto estão consistentes.
 
